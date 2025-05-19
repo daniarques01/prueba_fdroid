@@ -44,5 +44,41 @@
     "apkName": "simple-flashlight.apk",
     "icon": "com.simplemobiletools.flashlight.24.png",
     "added": 1747641132.674959
+  },
+  "com.simplemobiletools.flashlight_66.apk": {
+    "hash": "b4cd07c40a3d5711461670a2f460a1447acf3836c0e90471b7ba5c8b4c2f9bb3",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        23
+      ],
+      [
+        "android.permission.FLASHLIGHT",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.camera.flash"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.simplemobiletools.flashlight",
+    "versionCode": 66,
+    "name": "Flashlight",
+    "versionName": "5.10.1",
+    "minSdkVersion": 23,
+    "targetSdkVersion": 34,
+    "sig": "06f944519827a579ad419350dba97cc4",
+    "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+    "size": 9960893,
+    "apkName": "com.simplemobiletools.flashlight_66.apk",
+    "added": 1747644017.887294
   }
 }
