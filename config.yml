@@ -1,0 +1,17 @@
+repo_name: Repositorio Prueba
+repo_url: https://daniarques01.github.io/prueba_fdroid/repo
+gpg_key_id: C925C87BD05206C5F9F5A3837B5296BCB94C5E66
+
+repo_keyalias: c11-h0qlumb4gh7.dir.svc.accenture.com
+
+keystore: keystore.p12
+
+keydname: CN=c11-h0qlumb4gh7.dir.svc.accenture.com, OU=F-Droid
+
+
+keystorepass: H8kpklxlHIctfoKqUWkkrH32kGY+DanPKtEfCo6UGbE=
+
+
+keypass: H8kpklxlHIctfoKqUWkkrH32kGY+DanPKtEfCo6UGbE=
+
+
