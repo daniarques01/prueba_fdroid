@@ -1,0 +1,48 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "simple-flashlight.apk": {
+    "hash": "14c16e0f924134014706a7d00ca0405d08ddba6916f3dd7a863d3a6999caf1a0",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.FLASHLIGHT",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "android.hardware.camera.flash"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.simplemobiletools.flashlight.24.png",
+      "480": "com.simplemobiletools.flashlight.24.png",
+      "320": "com.simplemobiletools.flashlight.24.png",
+      "240": "com.simplemobiletools.flashlight.24.png",
+      "0": "com.simplemobiletools.flashlight.24.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.simplemobiletools.flashlight",
+    "versionCode": 24,
+    "name": "Flashlight",
+    "versionName": "3.0.0",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 27,
+    "sig": "06f944519827a579ad419350dba97cc4",
+    "signer": "aa91d60a9f96812da5d557f2f0edcd40dc3e488619ff1b5c9ffcca16fe1bdf8d",
+    "size": 2463690,
+    "apkName": "simple-flashlight.apk",
+    "icon": "com.simplemobiletools.flashlight.24.png",
+    "added": 1747641132.674959
+  }
+}
